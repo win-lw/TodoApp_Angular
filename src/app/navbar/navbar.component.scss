@@ -1,0 +1,11 @@
+.mat-toolbar h1 {
+    font-family: 'Fredoka One', cursive;
+    letter-spacing: normal;
+    margin: 0px;
+}
+
+:host mat-toolbar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
